@@ -1,0 +1,8 @@
+torch>=1.10.0
+numpy>=1.19.5
+einops>=0.4.1
+tqdm
+transformers>=4.25.0
+matplotlib
+tensorboard
+pytest
